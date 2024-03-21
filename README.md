@@ -5,3 +5,5 @@ This is my new repository :)
 I am making some changes - but it is in the new-feature branch.
 
 editing in new-feature!
+
+Hi, im making a change in the branch too.
